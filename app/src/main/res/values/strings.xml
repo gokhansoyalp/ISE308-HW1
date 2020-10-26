@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Cristiano Ronaldo</string>
+    <string name="cr7_career">Cristiano Ronaldo dos Santos Aveiro GOIH ComM (European Portuguese born 5 February 1985) is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time,[note 3] Ronaldo has won five Ballons d\'Or[note 4] and four European Golden Shoes, both of which are records for a European player</string>
+    <string name="cr7_PL">Ronaldo has four children. He first became a father to a son, Cristiano Jr., born on 17 June 2010 in the United States. He stated that he has full custody of the child and would not be publicly revealing the identity of the mother as per agreement with her. In January 2015, Ronaldo announced his five-year relationship with Russian model Irina Shayk had ended.Ronaldo then became father to twins, daughter Eva and son Mateo, born on 8 June 2017 in the United States via surrogacy.</string>
+    <string name="cr7_awards">Over the course of his career, Portuguese footballer Cristiano Ronaldo has received five Ballon d\'Or awards, the most for a European player. Widely regarded as one of the greatest players of all time, Ronaldo holds the record for most goals in the UEFA Champions League, the UEFA European Championship, its qualification stage, the FIFA Club World Cup and the UEFA Nations League Finals, as well as most goals scored in a UEFA Champions League season. He has scored 742 senior career goals for club and country.</string>
+    <string name="subtitle_career">CR7 Career</string>
+    <string name="subtitle_awards">CR7 Awards</string>
+    <string name="subtitle_PL">CR7 Personal Life</string>
+    <string name="read_more"> READ MORE</string>
+</resources>

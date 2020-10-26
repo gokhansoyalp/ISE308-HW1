@@ -1,0 +1,2 @@
+rootProject.name='CR7_HW1'
+include ':app'
